@@ -1,0 +1,11 @@
+com\ibra\pengembalian\repository\PengembalianRepository.class
+com\ibra\pengembalian\VO\Peminjaman.class
+com\ibra\pengembalian\service\PengembalianService.class
+com\ibra\pengembalian\VO\ResponseTemplateVO.class
+com\ibra\pengembalian\entity\Pengembalian.class
+com\ibra\pengembalian\VO\Buku.class
+com\ibra\pengembalian\controller\PengembalianController.class
+com\ibra\pengembalian\PengembalianServiceApplication.class
+com\ibra\pengembalian\VO\Anggota.class
+com\ibra\pengembalian\VO\ResponseTemplateVOPinjam.class
+.netbeans_automatic_build
