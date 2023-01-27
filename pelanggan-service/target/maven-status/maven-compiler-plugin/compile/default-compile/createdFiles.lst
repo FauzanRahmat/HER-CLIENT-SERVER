@@ -1,0 +1,5 @@
+com\ibra\pelanggan\service\PelangganService.class
+com\ibra\pelanggan\controller\PelangganController.class
+com\ibra\pelanggan\entity\Pelanggan.class
+com\ibra\pelanggan\PelangganServiceApplication.class
+com\ibra\pelanggan\repository\PelangganRepository.class
