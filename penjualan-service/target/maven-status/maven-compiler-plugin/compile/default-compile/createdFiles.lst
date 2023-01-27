@@ -1,0 +1,7 @@
+com\ibra\penjualan\VO\Anggota.class
+com\ibra\penjualan\entity\Penjualan.class
+com\ibra\penjualan\PenjualanServiceApplication.class
+com\ibra\penjualan\service\PenjualanService.class
+com\ibra\penjualan\VO\ResponseTemplateVO.class
+com\ibra\penjualan\repository\PenjualanRepository.class
+com\ibra\penjualan\controller\PenjualanController.class
