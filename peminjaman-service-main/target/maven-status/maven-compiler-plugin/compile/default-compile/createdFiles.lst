@@ -1,0 +1,9 @@
+com\ibra\peminjaman\entity\Peminjaman.class
+com\ibra\peminjaman\service\PeminjamanService.class
+com\ibra\peminjaman\VO\Anggota.class
+com\ibra\peminjaman\repository\PeminjamanRepository.class
+com\ibra\peminjaman\PeminjamanServiceApplication.class
+com\ibra\peminjaman\VO\ResponseTemplateVO.class
+.netbeans_automatic_build
+com\ibra\peminjaman\controller\PeminjamanController.class
+com\ibra\peminjaman\VO\Buku.class
